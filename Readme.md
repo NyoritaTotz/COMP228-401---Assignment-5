@@ -29,7 +29,6 @@ As part of COMP228 - Java Programming (Section 401) at Centennial College, this 
 ├── ThreadWithdrawal.java
 ├── ThreadDeposit.java
 ├── Main.java
-└── README.md
 ```
 
 ## How It Works
